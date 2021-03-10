@@ -1,0 +1,28 @@
+.container{
+    padding:15px;
+}
+.img-box{
+    max-width:31%;
+    position:relative;
+    float:left;
+    margin:15px;
+    height: 400px;
+    border:2px black solid;
+    border-radius:5px;
+
+}
+.imgs{
+    max-width:100%;
+    max-height:100%;
+}
+.mesaj{
+    background-color: green;
+    color: black;
+}
+html, body {
+    margin: 0px;
+    background-color: rgb(240, 240, 240);
+    color: rgb(71, 53, 25);
+    text-align: center;
+    font-size: 1.2em;
+}
